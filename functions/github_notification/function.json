@@ -1,0 +1,9 @@
+{
+  "description": "Github Notification tool",
+  "memory": 128,
+  "timeout": 10,
+  "environment": {
+    "APP_ENV": "dev",
+    "SLACK_WEBHOOK_URL": "https://hooks.slack.com/services/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"
+  }
+}

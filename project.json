@@ -1,0 +1,9 @@
+
+{
+  "name": "tool",
+  "description": "Lambda tools",
+  "memory": 128,
+  "timeout": 5,
+  "defaultEnvironment": "dev",
+  "environment": {}
+}
